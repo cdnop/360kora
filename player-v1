@@ -1,0 +1,49 @@
+.media-control.live[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-2[data-seekbar]{background-color:#ff0101!important}
+.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar]{height:3px!important}
+.level_selector[data-level-selector] button{font-size:0!important;background:url(https://3.bp.blogspot.com/-zetFuQ36xLo/W_brDTdM6yI/AAAAAAAALrE/ETrOqtTKj3ozXXIBbj_zwaiTNzpd1hn0ACLcBGAs/s1600/settings.png) center center/100% no-repeat;display:block!important;opacity:inherit;width:21px;height:21px;cursor:pointer}
+.level_selector[data-level-selector]{position:absolute!important;top:5px!important;right:140px!important}
+.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-hd-indicator] svg{opacity:0}
+.clappr-watermark[data-watermark] {
+    min-width: 150px!important;
+    max-width: 300px!important;}
+    
+[data-watermark-bottom-left] {
+    bottom: -7px!important;
+    left: 0px!important;} 
+
+[data-watermark] img { max-width: 100%!important; }
+[data-watermark] {width: 24%!important;}
+  
+  .media-control[data-media-control] .media-control-background[data-background] {
+    background: linear-gradient(transparent,#00000091)!important;}
+  
+.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] {
+    position: absolute;
+    top: 100px!important;}
+  
+.media-control[data-media-control] .media-control-icon {
+
+    opacity: 1!important;}
+  
+.dvr-controls[data-dvr-controls] {
+    font-size: 13px!important;
+    font-weight: 100!important;}  
+  .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume] svg{background:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6D7jNZg2mqzF9FZ9m7Qw0pr_ZacHOm7Jytc9s2zxGxTw_T9I3Hvnsm5W88H9rK0uXVZZdberdK-NkstZWTpMtEQxMe4w2Ii51EMEiPPJhZegjseK3ZswHPcMnbo1veMfmawSZoFLcJYI-1zCXOFcLI61uT-ky9HS1sFyoWGw90KT8u6uGAJQFA1VUzt/s1600/dlnITVV.png) center center/100% no-repeat;width:23px;position:absolute!important;top:5px!important;background-size:100% 100%;height:22px!important;opacity:4}
+  .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume].muted svg{background:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO2K-ytyMMKt6econ1pL07X791CMRF_w1_4RXoYN58tLka747BOiQ3GOQu7n55B1hNJuoW4PJDopTlrtJAh2xBMkAzW1NGk99lr2PKgJNbaeXY0MPt_POB4E_hdMaX4-H24EjMi0Veq3_ltc3b6OApdgHPEkpQ3JcySx8t6pNNbezzK0L3st7U3tgAbFIn/s1600/MIxXfFT.png) center center/100% no-repeat;width: 23px;!important}
+.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume]{top: 11px!important;}
+.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume]{padding-left:0!important;height:5px!important;background-color:#fff;box-shadow:rgb(255,255,255) 5px 0 0 inset!important}
+
+  .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume] {
+    width: 15px!important;}
+.dvr-controls[data-dvr-controls] .live-info{font-size:0;margin-left:0px}
+.dvr-controls[data-dvr-controls] .live-info:after{content:"Live";font-size:12px;font-weight:100;margin-left:5px;line-height: 34px!important;}
+  
+  
+  .level_selector[data-level-selector] {
+    right: 160px!important;
+}
+  .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume] svg path {
+    display: none!important;
+}
+.level_selector[data-level-selector]>ul {left: -35px;bottom: 150%;}
+.player-poster[data-poster] .play-wrapper[data-poster] svg {height: 70%;margin-top: 15px;}
